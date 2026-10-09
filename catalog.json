@@ -211,41 +211,39 @@
       "seasons": [
         {
           "number": 1,
-          "driveFolder": "1eBySPnJw_vtk4C59uUJrfp7XNcrtp1Sj",
-          "driveFile": "epi{n}.mp4",
           "episodes": [
             {
               "number": 1,
               "title": "Pilot",
-              "url": "https://drive.google.com/file/d/17L8W1LUQ5FtVRl5uENCP6RzPPD2oJ1G7/view?usp=drive_link",
+              "url": "https://drive.usercontent.google.com/download?id=17L8W1LUQ5FtVRl5uENCP6RzPPD2oJ1G7&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 2,
               "title": "The Night of the Comet",
-              "url": "https://drive.google.com/file/d/1NOHGGSftq0EkLN2swpf9KM1sk5HEAZtm/view?usp=sharing",
+              "url": "https://drive.usercontent.google.com/download?id=1NOHGGSftq0EkLN2swpf9KM1sk5HEAZtm&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 3,
               "title": "Friday Night Bites",
-              "url": "https://drive.google.com/file/d/1vDbZuU6BvRdF3cOsTTtfSmyOsEHNhKeQ/view?usp=sharing",
+              "url": "https://drive.usercontent.google.com/download?id=1vDbZuU6BvRdF3cOsTTtfSmyOsEHNhKeQ&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 4,
               "title": "Family Ties",
-              "url": "https://drive.google.com/file/d/1VYUMllgBlpi-nnS3RKZyVIMUk0UUxp21/view?usp=sharing",
+              "url": "https://drive.usercontent.google.com/download?id=1VYUMllgBlpi-nnS3RKZyVIMUk0UUxp21&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 5,
               "title": "You're Undead to Me",
-              "url": "https://drive.google.com/file/d/1ihWTZoiMyi8Vai3w8XLR_UyNqp8vcFnI/view?usp=sharing",
+              "url": "https://drive.usercontent.google.com/download?id=1ihWTZoiMyi8Vai3w8XLR_UyNqp8vcFnI&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
