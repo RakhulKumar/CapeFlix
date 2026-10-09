@@ -21,7 +21,7 @@
       "year": 1994,
       "runtime": "",
       "description": "Six friends navigate work, love and life together in New York City.",
-      "poster": "pkg:/images/posters/friends.jpg",
+      "poster": "https://raw.githubusercontent.com/RakhulKumar/CapeFlix/main/friends_poster.png",
       "status": "available",
       "seasons": [
         {
@@ -30,168 +30,168 @@
             {
               "number": 1,
               "title": "Pilot",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1mbV0WPBLfhyrlsAHbX60TtLxCpujd_Qc&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 2,
               "title": "The One with the Sonogram at the End",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1X_XZtlqQGyWmEMM2QSr1RC2prAclBUhx&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 3,
               "title": "The One with the Thumb",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1i8hGEpHeKYy2nPSJAQkk7bluGG1jLab_&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 4,
               "title": "The One with George Stephanopoulos",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1X-8Z05yKH5uCR37lJteJkRfV89NglRXy&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 5,
               "title": "The One with the East German Laundry Detergent",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1nWjZ-VOVHE8zIBAnC9S9ny3qNl2JXbe4&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 6,
               "title": "The One with the Butt",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=12kaJWftvK-ZGvmBbDcdP5EG2N54NgG6n&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 7,
               "title": "The One with the Blackout",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1l5O7HvBXrOSQ9zeD02DXb_IRWHkjmJDn&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 8,
               "title": "The One Where Nana Dies Twice",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1-tVjPIkDUy8AQ6Ie_krF5G0W1XLel-p6&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 9,
               "title": "The One Where Underdog Gets Away",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1RLFWT8hFwzMhNE66KAVDnqJAaMlG6a_o&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 10,
               "title": "The One with the Monkey",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=16DVFOWTt3_Xu45OFZbTsdeatPRKKqnLg&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 11,
               "title": "The One with Mrs. Bing",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1StzywNXGBO3GuEpbFm502R0hTVPyhr2B&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 12,
               "title": "The One with The Dozen Lasagnas",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1kybat2aVXKtR7ioTSkZ-A9kWrFjLdd91&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 13,
               "title": "The One with the Boobies",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=17VrgJLuDPSA-82saP12fUe1S8jO7XlZy&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 14,
               "title": "The One with the Candy Hearts",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=19DbEobvo8cYHBNmmUJAIT78fdXEL_89D&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 15,
               "title": "The One with the Stoned Guy",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1dZLbezMwuUMhmwkVSBrCv-mEntGI5AUe&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 16,
               "title": "The One with Two Parts: Part 1",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1JE24UcJrrWwY9ss_NmOf01jBujdapvU2&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 17,
               "title": "The One with Two Parts: Part 2",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1TEmIxa9c9rWgCDoMltAtrnFpooT0JXdQ&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 18,
               "title": "The One with All the Poker",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1bHXbKydUxUToFmZkQvDFkO_UtePfmBM3&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 19,
               "title": "The One Where the Monkey Gets Away",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1iSxuVdN7xyx2clOVrJ6PIoZOm92q-c4x&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 20,
               "title": "The One with the Evil Orthodontist",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1mCD3deaehlk9XZ1yBKtYWBXFlgmeqW_G&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 21,
               "title": "The One with the Fake Monica",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1j87yoQTf6u9-dXvyyjsT58JjrPBmR49c&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 22,
               "title": "The One with the Ick Factor",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1Z8vzMEJEP2RXeZLoUUUovybR5Ez3wiQ8&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 23,
               "title": "The One with the Birth",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=1wK8BW4isPINLF9gtnOmtxRFogttyEye-&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             },
             {
               "number": 24,
               "title": "The One Where Rachel Finds Out",
-              "url": "",
+              "url": "https://drive.usercontent.google.com/download?id=19FklpvJMVWtVNdzBQHe8zeyAA5noIpc_&export=download&confirm=t",
               "format": "mp4",
               "subtitles": []
             }
