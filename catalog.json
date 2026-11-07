@@ -15,6 +15,19 @@
       "subtitles": []
     },
     {
+      "id": "look_whos_talking",
+      "kind": "movie",
+      "title": "Look Who's Talking",
+      "year": 1989,
+      "runtime": "1h 36m",
+      "description": "A single mom and a taxi driver fall for each other while her baby son, voiced by Bruce Willis, comments on every grown-up move with hilarious honesty.",
+      "poster": "https://raw.githubusercontent.com/RakhulKumar/CapeFlix/main/look_whos_talking.jpg",
+      "status": "available",
+      "url": "https://drive.usercontent.google.com/download?id=1yz0sKuJcqRQCYtQ2aszZ8Y10UTAOJyUM&export=download&confirm=t",
+      "format": "mp4",
+      "subtitles": []
+    },
+    {
       "id": "friends",
       "kind": "series",
       "title": "Friends",
